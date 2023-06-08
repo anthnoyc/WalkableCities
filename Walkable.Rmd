@@ -1,0 +1,34 @@
+---
+title: "Walkable"
+author: "Anthony Chen"
+date: "2023-05-07"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+walk_score <- read.csv("walkablescoreCSV - Sheet1.csv")
+density <- read.csv("populationdensity.csv")
+college <- read.csv("College Walkability - Sheet1.csv")
+```
+
+```{r}
+walk_score
+density
+
+walk_density <- inner_join(walk_score, density, by = "City")
+walk_density
+```
+```{r}
+walk_density %>% 
+  arrange(desc(Walk.Score)) %>% 
+  ggplot(aes(y = Walk.Score, x = Population.density..per.square.mile., label)) + 
+  geom_point(color = "blue") + ylab("Walk Score") + xlab("Population / Square Mile") + geom_smooth(color = "orange") + ggtitle("Walk Score over Population Density") + theme_minimal()
+```
+
+```{r}
+college %>% arrange(desc(SchoolWalkScore)) %>% 
+  ggplot(aes(x = CityScore, y = SchoolWalkScore, text = School)) + geom_point()
+```
+
+
