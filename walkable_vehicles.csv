@@ -1,0 +1,632 @@
+City,"Rates of Vehicle Ownership, 2019","# of Households, 2019","# of Vehicles per Household, 2019"
+New York,44.56%,"3,211,033",0.62
+"Newark, New Jersey",59.52%,"102,155",0.87
+"Union City, New Jersey",60.57%,"25,581",0.81
+New Jersey ,61.77%,"108,939",0.85
+Boston,64.31%,"271,553",0.95
+Washington D.C.,65.06%,"291,570",0.89
+"Cambridge, Massachusetts",67.14%,"47,374",0.89
+"Passaic, New Jersey",67.26%,"19,956",1.03
+San Francisco,67.65%,"365,851",1.03
+"East Orange, New Jersey",69.22%,"27,960",1.03
+"Paterson, New Jersey",69.91%,"43,172",1.13
+"Miami Beach, Florida",70.11%,"40,084",0.98
+"Trenton, New Jersey",70.16%,"28,246",1.11
+"Mount Vernon, New York",70.41%,"26,535",1.16
+Philadelphia,70.60%,"619,505",1.04
+Baltimore,71.28%,"242,694",1.11
+"Camden, New Jersey",71.68%,"24,051",1.12
+Chicago,72.22%,"1,080,345",1.09
+"Buffalo, New York",73.05%,"109,163",1.15
+"New Haven, Connecticut",73.40%,"46,982",1.15
+"Lawrence, Massachusetts",74.58%,"27,844",1.23
+"Rochester, New York",74.69%,"87,679",1.14
+"Reading, Pennsylvania",75.37%,"29,325",1.23
+"Bayonne, New Jersey",75.43%,"25,939",1.15
+"Elizabeth, New Jersey",75.56%,"40,227",1.21
+"Yonkers, New York",75.77%,"74,854",1.21
+"Syracuse, New York",75.96%,"57,114",1.13
+"San Juan, Puerto Rico",76.53%,"135,460",1.19
+"Pittsburgh, Pennsylvania",76.57%,"143,276",1.17
+"Somerville, Massachusetts",76.63%,"32,120",1.17
+"Springfield, Massachusetts",77.07%,"54,922",1.28
+"Hartford, Connecticut",77.09%,"48,168",1.17
+Detroit,77.43%,"267,139",1.19
+"Bridgeport, Connecticut",77.50%,"50,103",1.35
+"Wilmington, Delaware",77.85%,"31,754",1.06
+"Berkeley, California",78.76%,"44,551",1.31
+"Flint, Michigan",78.93%,"40,121",1.25
+"Schenectady, New York",78.95%,"26,574",1.2
+"Cleveland, Ohio",79.27%,"171,632",1.21
+"Gary, Indiana",79.41%,"29,466",1.32
+"Albany, New York",79.92%,"42,408",1.24
+"New Bedford, Massachusetts",80.02%,"39,216",1.33
+"Waterbury, Connecticut",80.02%,"42,113",1.33
+St. Louis,80.25%,"146,779",1.28
+Seattle,80.66%,"343,988",1.32
+"Ponce, Puerto Rico",80.72%,"44,413",1.25
+"Dayton, Ohio",80.91%,"56,520",1.35
+"Allentown, Pennsylvania",80.99%,"40,959",1.39
+"Cincinnati, Ohio",81.20%,"137,582",1.36
+"Youngstown, Ohio",81.23%,"29,102",1.28
+Miami,81.34%,"189,084",1.27
+"Caguas, Puerto Rico",81.36%,"28,623",1.3
+"Fall River, Massachusetts",81.41%,"37,899",1.36
+"New Rochelle, New York",81.87%,"32,251",1.37
+"Providence, Rhode Island",81.91%,"62,046",1.28
+"Erie, Pennsylvania",82.17%,"39,790",1.26
+"Worcester, Massachusetts",82.46%,"69,125",1.42
+"Canton, Ohio",82.77%,"31,981",1.31
+"Brockton, Massachusetts",82.78%,"31,440",1.49
+Milwaukee,82.91%,"232,176",1.35
+"Muncie, Indiana",83.19%,"26,772",1.46
+Honolulu,83.25%,"131,873",1.39
+"Silver Spring, Maryland",83.26%,"31,712",1.37
+"Scranton, Pennsylvania",83.70%,"30,923",1.43
+"Lynn, Massachusetts",83.81%,"31,833",1.5
+New Orleans,83.89%,"151,753",1.31
+"Albany, Georgia",84.27%,"25,640",1.36
+"New Britain, Connecticut",84.76%,"29,359",1.48
+"Racine, Wisconsin",84.85%,"31,303",1.57
+"Quincy, Massachusetts",84.96%,"42,242",1.31
+"Minneapolis, Minnesota",84.99%,"181,833",1.36
+"Oakland, California",85.05%,"168,413",1.45
+Atlanta,85.14%,"223,736",1.34
+Portland,85.17%,"280,176",1.48
+"Richmond, Virginia",85.19%,"89,878",1.47
+"Evanston, Illinois",85.34%,"27,877",1.29
+"Shreveport, Louisiana",85.51%,"73,114",1.47
+"Lowell, Massachusetts",85.51%,"41,753",1.55
+"Toledo, Ohio",85.54%,"121,022",1.43
+"Pawtucket, Rhode Island",85.97%,"28,452",1.44
+"Peoria, Illinois",86.12%,"46,130",1.51
+"Fort Myers, Florida",86.35%,"30,754",1.45
+"Lauderhill, Florida",86.37%,"24,628",1.36
+"Portland, Maine",86.55%,"30,900",1.49
+"Waterloo, Iowa",86.57%,"27,914",1.66
+"Birmingham, Alabama",86.67%,"93,300",1.47
+"Bayamón, Puerto Rico",86.70%,"62,502",1.5
+"Lafayette, Indiana",86.97%,"33,086",1.49
+"Grand Rapids, Michigan",87.00%,"77,128",1.55
+"Savannah, Georgia",87.02%,"53,371",1.46
+"St. Paul, Minnesota",87.03%,"110,782",1.57
+"Framingham, Massachusetts",87.05%,"27,005",1.64
+"Cicero, Illinois",87.19%,"22,399",1.66
+"Sunrise Manor, Nevada",87.20%,"62,646",1.61
+"Newport News, Virginia",87.25%,"70,918",1.61
+"Paradise, Nevada",87.25%,"94,188",1.49
+"Akron, Ohio",87.25%,"83,821",1.48
+"Madison, Wisconsin",87.35%,"114,096",1.44
+"Rockford, Illinois",87.47%,"57,463",1.59
+"Arlington, Virginia",87.49%,"111,887",1.4
+"Kalamazoo, Michigan",87.52%,"30,858",1.49
+"Brentwood, New York",87.65%,"13,737",2.27
+"Hammond, Indiana",87.67%,"29,402",1.56
+"St. Joseph, Missouri",87.77%,"29,399",1.61
+"Greenville, North Carolina",87.79%,"37,402",1.58
+"Davis, California",87.86%,"26,367",1.68
+Los Angeles,87.89%,"1,398,900",1.63
+"Bethlehem, Pennsylvania",87.93%,"29,213",1.53
+"Norfolk, Virginia",88.00%,"88,387",1.57
+"Bloomington, Indiana",88.07%,"30,072",1.48
+"Hialeah, Florida",88.07%,"75,989",1.63
+"South Bend, Indiana",88.18%,"41,196",1.54
+"Eugene, Oregon",88.21%,"73,331",1.55
+"Macon-Bibb, Georgia",88.21%,"56,726",1.61
+"Davenport, Iowa",88.22%,"41,123",1.64
+"Columbia, South Carolina",88.28%,"45,474",1.52
+"Pompano Beach, Florida",88.40%,"44,297",1.44
+"North Little Rock, Arkansas",88.41%,"27,903",1.5
+"Deerfield Beach, Florida",88.44%,"33,439",1.46
+"Knoxville, Tennessee",88.47%,"83,492",1.55
+"Alexandria, Virginia",88.48%,"71,005",1.35
+"Lorain, Ohio",88.50%,"24,947",1.48
+"Baton Rouge, Louisiana",88.51%,"82,097",1.47
+"Santa Barbara, California",88.60%,"38,674",1.57
+"Memphis, Tennessee",88.66%,"254,423",1.53
+"Champaign, Illinois",88.68%,"35,865",1.41
+"Guaynabo, Puerto Rico",88.70%,"26,131",1.62
+"Cheektowaga, New York",88.81%,"35,691",1.48
+"Roanoke, Virginia",88.82%,"40,810",1.53
+"Kansas City, Kansas",88.87%,"56,873",1.68
+"Iowa City, Iowa",88.89%,"32,850",1.57
+"Lansing, Michigan",88.98%,"51,035",1.39
+Denver,89.07%,"318,445",1.57
+"Pharr, Texas",89.15%,"23,126",1.65
+"Spokane, Washington",89.23%,"95,222",1.69
+"Evansville, Indiana",89.26%,"50,692",1.56
+"Carolina, Puerto Rico",89.27%,"54,004",1.44
+"Springfield, Missouri",89.37%,"80,693",1.42
+Tucson,89.39%,"217,993",1.55
+"Winston-Salem, North Carolina",89.46%,"94,884",1.64
+"Portsmouth, Virginia",89.56%,"36,089",1.61
+"Pueblo, Colorado",89.57%,"44,945",1.68
+"Salt Lake City, Utah",89.57%,"81,839",1.63
+"Sandy Springs, Georgia",89.59%,"52,820",1.54
+"Santa Monica, California",89.62%,"45,096",1.4
+"Louisville/Jefferson County, Kentucky",89.62%,"252,784",1.63
+"Ann Arbor, Michigan",89.63%,"45,827",1.48
+"Medford, Oregon",89.65%,"33,047",1.69
+"Glendale, California",89.71%,"74,197",1.61
+"Bellevue, Washington",89.72%,"59,316",1.63
+"Lake Charles, Louisiana",89.73%,"32,614",1.58
+"Wilmington, North Carolina",89.77%,"54,673",1.53
+"East Los Angeles, California",89.84%,"30,676",1.88
+"Gainesville, Florida",89.85%,"51,990",1.47
+"Fresno, California",89.86%,"172,815",1.74
+"Greenville, South Carolina",89.88%,"32,250",1.56
+"Tempe, Arizona",89.91%,"76,669",1.61
+"Clearwater, Florida",89.92%,"48,641",1.48
+Kansas City,89.92%,"209,768",1.62
+Dallas,89.93%,"518,998",1.56
+"Victoria, Texas",90.00%,"21,806",1.69
+Las Vegas,90.00%,"235,628",1.66
+"Des Moines, Iowa",90.01%,"91,045",1.69
+"Westland, Michigan",90.02%,"35,324",1.56
+"Waukegan, Illinois",90.05%,"29,100",1.61
+"Lawton, Oklahoma",90.05%,"32,174",1.57
+"Stamford, Connecticut",90.07%,"49,707",1.6
+"Fort Smith, Arkansas",90.10%,"36,210",1.58
+"Fort Lauderdale, Florida",90.17%,"76,348",1.5
+"Springfield, Illinois",90.18%,"49,544",1.49
+"Southfield, Michigan",90.20%,"34,836",1.45
+"Duluth, Minnesota",90.21%,"37,374",1.68
+"Daytona Beach, Florida",90.28%,"28,839",1.47
+"Boulder, Colorado",90.37%,"42,462",1.62
+"Little Rock, Arkansas",90.48%,"80,063",1.64
+"Auburn, Washington",90.50%,"29,665",1.84
+"Topeka, Kansas",90.50%,"54,066",1.6
+"Jackson, Tennessee",90.51%,"25,925",1.64
+"Bryan, Texas",90.51%,"31,053",1.59
+"Columbus, Georgia",90.52%,"73,134",1.7
+"Sioux City, Iowa",90.56%,"31,968",1.8
+"Richmond, California",90.58%,"36,634",1.81
+"Augusta-Richmond County, Georgia",90.62%,"66,838",1.65
+"El Monte, California",90.62%,"31,535",1.98
+"El Cajon, California",90.63%,"32,139",1.8
+Houston,90.67%,"876,504",1.6
+"Asheville, North Carolina",90.68%,"40,340",1.52
+"Athens-Clarke County, Georgia",90.68%,"51,640",1.69
+"Lakeland, Florida",90.70%,"40,236",1.5
+"Wyoming, Michigan",90.73%,"28,313",1.79
+"Escondido, California",90.75%,"51,364",1.85
+"Johnson City, Tennessee",90.84%,"30,724",1.7
+"Rochester, Minnesota",90.94%,"50,479",1.66
+"Beaverton, Oregon",90.97%,"43,659",1.59
+Sacramento,90.98%,"191,911",1.74
+"Redding, California",90.99%,"37,757",1.81
+Long Beach,91.01%,"165,689",1.71
+"Daly City, California",91.04%,"31,289",1.95
+"Decatur, Illinois",91.04%,"29,772",1.48
+"St. Cloud, Minnesota",91.04%,"27,322",1.62
+"Wichita Falls, Texas",91.06%,"37,332",1.66
+"Mobile, Alabama",91.06%,"77,628",1.68
+"Renton, Washington",91.08%,"39,908",1.78
+"Green Bay, Wisconsin",91.22%,"43,004",1.71
+"Greensboro, North Carolina",91.24%,"118,046",1.65
+"Lafayette, Louisiana",91.24%,"52,267",1.59
+"Kennewick, Washington",91.27%,"31,230",1.84
+"Pine Hills, Florida",91.35%,"24,507",1.67
+San Antonio,91.36%,"512,273",1.7
+"Oshkosh, Wisconsin",91.41%,"26,794",1.6
+"Gresham, Oregon",91.42%,"40,604",1.82
+"West Palm Beach, Florida",91.43%,"41,678",1.41
+Indianapolis,91.45%,"340,639",1.6
+"Fargo, North Dakota",91.48%,"57,118",1.6
+"Gulfport, Mississippi",91.51%,"25,559",1.53
+"Reno, Nevada",91.52%,"110,118",1.75
+"Sunrise, Florida",91.53%,"39,427",1.63
+"Metairie, Louisiana",91.54%,"56,421",1.54
+Columbus,91.58%,"368,491",1.56
+"Durham, North Carolina",91.58%,"114,726",1.65
+"Skokie, Illinois",91.60%,"20,060",1.74
+"Missoula, Montana",91.61%,"33,448",1.73
+"Bellingham, Washington",91.64%,"38,664",1.66
+"Hemet, California",91.68%,"28,412",1.64
+"Tulsa, Oklahoma",91.69%,"163,801",1.67
+"Alameda, California",91.72%,"30,788",1.62
+"Tampa, Florida",91.73%,"153,918",1.58
+"Arden-Arcade, California",91.73%,"42,309",1.63
+"Brownsville, Texas",91.74%,"55,052",1.77
+"Harlingen, Texas",91.76%,"22,901",1.55
+"Miami Gardens, Florida",91.79%,"32,171",1.7
+"Burbank, California",91.80%,"43,167",1.62
+"San Bernardino, California",91.81%,"60,308",1.93
+"Stockton, California",91.81%,"96,149",1.9
+"Cranston, Rhode Island",91.82%,"31,182",1.64
+"Glendale, Arizona",91.84%,"81,065",1.84
+"Glen Burnie, Maryland",91.84%,"29,669",1.9
+"Homestead, Florida",91.84%,"20,320",1.57
+"Vancouver, Washington",91.85%,"75,199",1.72
+"Redmond, Washington",91.90%,"29,881",1.51
+"North Charleston, South Carolina",91.91%,"47,066",1.57
+"Clifton, New Jersey",91.92%,"28,207",1.71
+"Jackson, Mississippi",92.00%,"61,590",1.64
+"Omaha, Nebraska",92.00%,"188,824",1.71
+"Independence, Missouri",92.04%,"47,329",1.72
+"Everett, Washington",92.05%,"44,219",1.69
+"Dearborn, Michigan",92.09%,"30,304",1.69
+"Yakima, Washington",92.13%,"33,424",1.91
+"Port Charlotte, Florida",92.17%,"24,367",1.61
+"Bend, Oregon",92.17%,"39,371",1.89
+"Tacoma, Washington",92.17%,"87,016",1.75
+"Dothan, Alabama",92.19%,"27,103",1.65
+"Bellflower, California",92.24%,"23,369",2.04
+"Tallahassee, Florida",92.26%,"76,684",1.58
+"Chattanooga, Tennessee",92.27%,"79,565",1.63
+"South Gate, California",92.28%,"23,559",2.04
+"Charleston, South Carolina",92.29%,"58,902",1.66
+"Joliet, Illinois",92.30%,"48,724",1.85
+"Rock Hill, South Carolina",92.30%,"32,341",1.65
+"Salem, Oregon",92.32%,"61,087",1.83
+"El Paso, Texas",92.33%,"223,076",1.82
+"Lynwood, California",92.35%,"15,142",2.1
+"Montgomery, Alabama",92.36%,"78,225",1.65
+"Florence-Graham, California",92.37%,"14,973",2
+"Tuscaloosa, Alabama",92.37%,"36,779",1.66
+"Ogden, Utah",92.37%,"30,509",1.77
+"Mountain View, California",92.38%,"35,456",1.63
+"Santa Cruz, California",92.41%,"22,166",1.79
+"Manchester, New Hampshire",92.43%,"46,435",1.69
+"Albuquerque, New Mexico",92.45%,"227,179",1.73
+"Killeen, Texas",92.45%,"57,079",1.77
+"Temple, Texas",92.46%,"28,819",1.68
+"Hampton, Virginia",92.46%,"55,633",1.75
+"Inglewood, California",92.49%,"34,440",1.73
+"Bowling Green, Kentucky",92.50%,"27,178",1.53
+"San Marcos, California",92.52%,"30,852",2.01
+"Danbury, Connecticut",92.52%,"32,310",1.72
+"Warwick, Rhode Island",92.54%,"34,833",1.71
+"Lodi, California",92.54%,"22,733",1.92
+Jacksonville,92.57%,"349,171",1.65
+"Federal Way, Washington",92.57%,"34,971",1.87
+"Kirkland, Washington",92.60%,"36,115",1.8
+"Elgin, Illinois",92.63%,"36,849",1.83
+"Westminster, California",92.63%,"26,984",2.08
+"Kenner, Louisiana",92.64%,"26,151",1.7
+"Warren, Michigan",92.65%,"52,359",1.73
+"Pembroke Pines, Florida",92.65%,"57,399",1.72
+Phoenix,92.67%,"586,878",1.79
+"Lehigh Acres, Florida",92.67%,"38,662",1.75
+"Hayward, California",92.68%,"47,826",2.03
+"Columbia, Missouri",92.68%,"46,841",1.66
+"Fort Wayne, Indiana",92.69%,"105,414",1.7
+"Amarillo, Texas",92.71%,"76,207",1.79
+"Hollywood, Florida",92.77%,"55,172",1.63
+Oklahoma City,92.79%,"249,615",1.74
+"Pasadena, California",92.80%,"56,668",1.66
+Austin,92.81%,"409,903",1.62
+"Chico, California",92.87%,"37,040",1.8
+"Baytown, Texas",92.87%,"26,978",1.86
+"San Buenaventura (Ventura), California",92.88%,"40,513",1.85
+"Lexington-Fayette, Kentucky",92.89%,"131,929",1.68
+"Gastonia, North Carolina",92.91%,"27,796",1.78
+"Largo, Florida",92.91%,"33,687",1.46
+"Ames, Iowa",92.92%,"26,347",1.8
+"Rapid City, South Dakota",92.95%,"31,387",1.77
+"Bloomington, Illinois",92.98%,"31,564",1.59
+"Fayetteville, North Carolina",93.00%,"82,087",1.65
+"Wichita, Kansas",93.01%,"153,454",1.81
+"Merced, California",93.07%,"25,005",1.92
+"Corpus Christi, Texas",93.09%,"119,184",1.78
+"Odessa, Texas",93.10%,"42,465",1.87
+"Rockville, Maryland",93.12%,"26,360",1.6
+"Bakersfield, California",93.12%,"116,558",1.96
+"Fayetteville, Arkansas",93.12%,"36,705",1.73
+"Auburn, Alabama",93.13%,"26,156",1.81
+"High Point, North Carolina",93.13%,"40,877",1.75
+"Appleton, Wisconsin",93.14%,"31,049",1.67
+"Pomona, California",93.15%,"40,579",2.14
+"Kenosha, Wisconsin",93.18%,"38,042",1.69
+"Carmichael, California",93.19%,"26,577",1.81
+"Hillsboro, Oregon",93.22%,"38,085",1.83
+"Walnut Creek, California",93.24%,"31,558",1.62
+"Norwalk, Connecticut",93.26%,"33,616",1.79
+"Lynchburg, Virginia",93.29%,"28,950",1.79
+"Perris, California",93.31%,"17,582",2.24
+"Frederick, Maryland",93.35%,"29,293",1.71
+"Yuma, Arizona",93.41%,"34,971",1.76
+"Melbourne, Florida",93.43%,"31,680",1.59
+"Nashville-Davidson, Tennessee",93.43%,"279,545",1.68
+"Kissimmee, Florida",93.44%,"22,709",1.49
+"Spokane Valley, Washington",93.45%,"41,483",1.9
+Charlotte,93.47%,"342,448",1.65
+"Las Cruces, New Mexico",93.49%,"40,185",1.85
+San Diego,93.57%,"512,530",1.8
+"Bismarck, North Dakota",93.60%,"30,833",1.86
+"Cedar Rapids, Iowa",93.67%,"57,947",1.69
+"Tamarac, Florida",93.68%,"26,124",1.41
+"Pleasanton, California",93.71%,"28,994",1.93
+"Ellicott City, Maryland",93.72%,"27,514",1.85
+San Jose,93.77%,"327,894",1.98
+"Abilene, Texas",93.78%,"43,010",1.71
+"Union City, California",93.78%,"22,469",2.21
+"Kent, Washington",93.80%,"44,949",1.98
+"Jonesboro, Arkansas",93.81%,"29,688",1.63
+"Springdale, Arkansas",93.85%,"26,443",1.8
+"Bloomington, Minnesota",93.85%,"35,843",1.73
+"Santa Maria, California",93.86%,"27,079",2.08
+"Beaumont, Texas",93.87%,"45,435",1.65
+"Sioux Falls, South Dakota",93.91%,"76,996",1.8
+"Columbia, Maryland",93.92%,"39,629",1.75
+"Antioch, California",93.93%,"36,138",2.09
+"Raleigh, North Carolina",93.94%,"188,412",1.71
+"Boynton Beach, Florida",93.94%,"31,863",1.61
+"Kendall, Florida",93.95%,"28,610",1.84
+"Farmington Hills, Michigan",93.96%,"32,850",1.78
+"Clovis, California",93.96%,"39,269",1.9
+"Redwood City, California",93.97%,"32,199",1.82
+"Sunnyvale, California",93.97%,"55,424",1.75
+"Santa Rosa, California",93.98%,"65,590",1.86
+"Aurora, Colorado",93.98%,"136,443",1.85
+"Bossier City, Louisiana",94.00%,"26,677",1.65
+"Lubbock, Texas",94.02%,"99,104",1.73
+"McAllen, Texas",94.03%,"47,094",1.81
+"Anchorage, Alaska",94.08%,"105,198",1.81
+"Chesapeake, Virginia",94.09%,"86,878",2.01
+"Riverside, California",94.09%,"87,189",2.08
+"Waco, Texas",94.11%,"50,523",1.72
+"St. Petersburg, Florida",94.13%,"110,354",1.55
+"Nashua, New Hampshire",94.14%,"37,474",1.75
+"Arlington Heights, Illinois",94.17%,"28,748",1.72
+"Santa Clara, California",94.20%,"46,608",1.8
+"Lancaster, California",94.21%,"49,220",1.87
+"Waukesha, Wisconsin",94.22%,"30,364",1.68
+"Oxnard, California",94.24%,"50,739",2.23
+"Alhambra, California",94.25%,"28,777",1.88
+Mesa,94.25%,"187,111",1.81
+"Huntsville, Alabama",94.26%,"88,930",1.76
+"Lakewood, Colorado",94.28%,"67,857",1.81
+"Spring Hill, Florida",94.28%,"43,691",1.77
+"Tyler, Texas",94.30%,"37,504",1.8
+"Irvine, California",94.32%,"104,524",1.79
+"San Leandro, California",94.33%,"31,691",1.86
+"St. Charles, Missouri",94.33%,"29,838",1.78
+"Palo Alto, California",94.35%,"25,168",1.7
+"Rancho Cordova, California",94.37%,"24,907",1.84
+"Anaheim, California",94.42%,"105,301",2.08
+"Flagstaff, Arizona",94.42%,"25,609",1.85
+"Peoria, Arizona",94.42%,"66,318",1.94
+"San Mateo, California",94.42%,"39,564",1.74
+"Orlando, Florida",94.43%,"109,454",1.58
+"Oceanside, California",94.44%,"60,235",1.99
+"Plantation, Florida",94.45%,"36,203",1.73
+"Modesto, California",94.45%,"71,325",1.91
+"Greeley, Colorado",94.46%,"38,299",2.04
+"The Woodlands, Texas",94.46%,"41,819",1.99
+"Vallejo, California",94.47%,"42,200",2.04
+"Boise City, Idaho",94.51%,"95,359",1.88
+"Napa, California",94.53%,"28,819",1.93
+"Edinburg, Texas",94.53%,"30,224",1.87
+"West Covina, California",94.58%,"30,682",2.23
+"Yuba City, California",94.60%,"24,393",1.95
+"Hawthorne, California",94.60%,"27,489",1.65
+"Victorville, California",94.63%,"32,188",2.08
+"Midland, Texas",94.67%,"47,961",1.94
+"Pasadena, Texas",94.69%,"47,706",1.9
+"Irving, Texas",94.69%,"83,345",1.72
+"Garden Grove, California",94.69%,"47,378",2.23
+"Lawrence, Kansas",94.70%,"39,442",1.83
+"Chula Vista, California",94.70%,"82,916",2.1
+"Whittier, California",94.71%,"26,884",2.08
+"Davie, Florida",94.72%,"35,708",1.84
+"Jacksonville, North Carolina",94.74%,"21,986",1.57
+"Boca Raton, Florida",94.76%,"40,845",1.65
+"Warner Robins, Georgia",94.80%,"29,742",1.7
+"Longview, Texas",94.82%,"29,848",1.84
+"Lincoln, Nebraska",94.83%,"117,726",1.84
+"Delray Beach, Florida",94.85%,"28,548",1.52
+"Longmont, Colorado",94.86%,"39,984",1.87
+"Laredo, Texas",94.88%,"73,066",1.92
+"Blaine, Minnesota",94.89%,"23,243",1.9
+"Parma, Ohio",94.89%,"34,332",1.71
+"Sparks, Nevada",94.91%,"38,887",1.97
+"Newton, Massachusetts",94.91%,"30,643",1.7
+"College Station, Texas",94.93%,"40,281",1.76
+"Camarillo, California",94.94%,"27,274",1.97
+"Salinas, California",94.96%,"39,862",2.06
+"Santa Fe, New Mexico",94.96%,"35,112",1.77
+Fort Worth,94.97%,"309,097",1.84
+"Colorado Springs, Colorado",94.99%,"188,837",1.87
+"Visalia, California",95.00%,"45,878",2.03
+"Aurora, Illinois",95.07%,"63,972",1.93
+"Vacaville, California",95.07%,"32,560",2.11
+"Temecula, California",95.10%,"35,638",2.14
+"Fairfield, California",95.11%,"37,310",2.09
+"Sandy, Utah",95.13%,"31,130",2.2
+"Pittsburg, California",95.13%,"21,273",2.07
+"Clarksville, Tennessee",95.16%,"58,985",1.89
+"Hesperia, California",95.17%,"27,185",2.15
+"Spring Valley, Nevada",95.17%,"82,969",1.71
+"Upland, California",95.17%,"26,201",2.03
+"Town 'n' Country CDP, Florida",95.17%,"33,230",1.94
+"Tulare, California",95.19%,"18,170",2.03
+"Pasco, Washington",95.19%,"22,747",2.08
+"Compton, California",95.19%,"21,757",2.32
+"Baldwin Park, California",95.20%,"19,350",2.24
+"Norwalk, California",95.20%,"26,257",2.27
+"Mesquite, Texas",95.20%,"49,549",1.96
+"West Valley City, Utah",95.21%,"36,842",2.19
+"Mansfield, Texas",95.27%,"22,943",2.13
+"Norman, Oklahoma",95.27%,"48,531",1.89
+"Richardson, Texas",95.29%,"43,322",1.87
+Virginia Beach,95.34%,"175,029",1.94
+"Schaumburg, Illinois",95.36%,"30,713",1.64
+"Costa Mesa, California",95.37%,"38,762",1.94
+"Fort Collins, Colorado",95.37%,"70,831",1.91
+"Scottsdale, Arizona",95.38%,"123,791",1.71
+"Torrance, California",95.38%,"55,483",1.82
+"Conway, Arkansas",95.44%,"26,319",1.71
+"Billings, Montana",95.45%,"48,990",1.86
+"Sterling Heights, Michigan",95.47%,"51,367",1.87
+"Rochester Hills, Michigan",95.48%,"28,261",1.87
+"North Las Vegas, Nevada",95.50%,"75,600",1.95
+"Santa Ana, California",95.50%,"79,704",2.16
+"South Jordan, Utah",95.57%,"20,542",2.24
+"Olathe, Kansas",95.57%,"49,971",2.03
+"Brooklyn Park, Minnesota",95.58%,"27,090",2
+"Westminster, Colorado",95.60%,"43,890",1.97
+"Suffolk, Virginia",95.60%,"34,597",2.06
+"Arlington, Texas",95.61%,"138,639",1.88
+"Tracy, California",95.64%,"26,771",2.37
+"Germantown, Maryland",95.65%,"28,833",1.8
+"Rialto, California",95.66%,"24,751",2.29
+"Coral Springs, Florida",95.69%,"41,240",1.91
+"Concord, North Carolina",95.69%,"30,660",1.9
+"Palmdale, California",95.69%,"41,538",2.22
+"Rogers, Arkansas",95.69%,"24,297",1.91
+"South San Francisco, California",95.70%,"22,355",2
+"Georgetown, Texas",95.74%,"29,882",1.64
+"O'Fallon, Missouri",95.77%,"32,274",1.99
+"Mission, Texas",95.80%,"24,709",1.92
+"Denton, Texas",95.86%,"46,151",1.84
+"Toms River, New Jersey",95.89%,"34,678",1.85
+"Loveland, Colorado",95.93%,"33,393",1.9
+"Chandler, Arizona",95.94%,"94,035",1.85
+"Plano, Texas",95.94%,"107,721",1.88
+"Redlands, California",95.94%,"26,115",1.96
+"McKinney, Texas",96.00%,"68,458",1.88
+"Murfreesboro, Tennessee",96.04%,"52,530",1.87
+"Manteca, California",96.05%,"26,047",2.32
+"Marysville, Washington",96.08%,"24,496",2.15
+"Nampa, Idaho",96.08%,"34,798",2.05
+"Roseville, California",96.09%,"53,093",1.92
+"San Ramon, California",96.11%,"25,697",2.05
+"Thousand Oaks, California",96.13%,"44,618",2.01
+"Rocklin, California",96.14%,"23,612",2.02
+"Sugar Land, Texas",96.15%,"40,077",2.14
+"Concord, California",96.15%,"45,071",1.99
+"Henderson, Nevada",96.17%,"121,285",1.85
+"New Braunfels, Texas",96.18%,"33,398",1.98
+"Wesley Chapel, Florida",96.18%,"20,585",1.87
+"Casas Adobes, Arizona",96.20%,"29,337",1.88
+"Naperville, Illinois",96.21%,"52,238",1.95
+"Gaithersburg, Maryland",96.21%,"25,589",1.67
+"San Angelo, Texas",96.22%,"36,990",1.83
+"Castle Rock, Colorado",96.26%,"23,803",2.15
+"Edmond, Oklahoma",96.31%,"36,056",1.94
+"Fremont, California",96.33%,"77,848",2.05
+"Santa Clarita, California",96.39%,"69,975",2.16
+"Livonia, Michigan",96.40%,"37,899",1.95
+"Brandon, Florida",96.42%,"43,037",1.69
+"Menifee, California",96.45%,"29,356",2.14
+"Madera, California",96.46%,"16,625",2.12
+"Cary, North Carolina",96.48%,"64,728",1.87
+"Lake Elsinore, California",96.50%,"18,642",2.21
+"Turlock, California",96.50%,"25,718",1.95
+"Laguna Niguel, California",96.55%,"24,719",2.04
+"Alpharetta, Georgia",96.55%,"25,391",1.99
+"South Fulton, Georgia",96.56%,"32,457",1.98
+"Eagan, Minnesota",96.59%,"24,515",1.85
+"Simi Valley, California",96.59%,"42,117",2.15
+"Chino, California",96.59%,"26,079",2.3
+"Mission Viejo, California",96.61%,"34,017",2.13
+"Palm Bay, Florida",96.62%,"38,504",1.8
+"Troy, Michigan",96.64%,"31,410",1.97
+"Milpitas, California",96.65%,"26,052",2.14
+"Lakewood, California",96.67%,"25,198",2.22
+"Provo, Utah",96.68%,"34,454",2.1
+"Fullerton, California",96.68%,"44,365",2.05
+"Woodbury, Minnesota",96.68%,"26,254",1.9
+"Avondale, Arizona",96.70%,"25,339",2.08
+"Riverview, Florida",96.72%,"35,959",1.8
+"Lake Forest, California",96.73%,"28,460",2.13
+"Elk Grove, California",96.73%,"57,048",2.15
+"Downey, California",96.74%,"32,073",2.14
+"Johns Creek, Georgia",96.76%,"28,638",2.01
+"Roswell, Georgia",96.76%,"35,944",1.94
+"Ontario, California",96.78%,"49,894",2.25
+"San Clemente, California",96.79%,"23,182",2.07
+"Franklin, Tennessee",96.79%,"32,690",1.92
+"Pflugerville, Texas",96.82%,"21,971",2.03
+"Garland, Texas",96.82%,"72,410",2.1
+"Conroe, Texas",96.88%,"31,236",1.85
+"Folsom, California",96.90%,"27,286",2
+"Arvada, Colorado",96.92%,"48,353",2.1
+"Palatine, Illinois",96.94%,"25,880",1.8
+"Eau Claire, Wisconsin",96.95%,"27,233",1.77
+"Jurupa Valley, California",96.96%,"24,548",2.35
+"Lewisville, Texas",96.96%,"41,101",1.77
+"Frisco, Texas",96.97%,"67,851",1.9
+"Deltona, Florida",96.98%,"31,783",1.98
+"Citrus Heights, California",96.99%,"36,460",1.83
+"Rancho Cucamonga, California",97.00%,"59,497",2.03
+"Carmel, Indiana",97.05%,"38,677",1.99
+"Orange, California",97.07%,"43,492",2.11
+"Thornton, Colorado",97.07%,"46,900",2.12
+"Carson, California",97.08%,"25,573",2.38
+"Murrieta, California",97.09%,"33,792",2.24
+"Lakeville, Minnesota",97.09%,"22,225",2.22
+"Indio, California",97.09%,"31,760",1.99
+"Layton, Utah",97.12%,"25,307",2.17
+"Moreno Valley, California",97.13%,"52,220",2.27
+"Carrollton, Texas",97.18%,"48,963",1.99
+"Fountainebleau, Florida",97.22%,"22,887",1.84
+"Shawnee, Kansas",97.23%,"24,678",1.96
+"Broomfield, Colorado",97.23%,"28,062",1.99
+"Waldorf, Maryland",97.24%,"29,863",1.93
+"Mount Pleasant, South Carolina",97.28%,"36,111",1.91
+"Bolingbrook, Illinois",97.29%,"22,890",2
+"Apple Valley, California",97.32%,"23,774",2.05
+"Vista, California",97.34%,"31,075",2.1
+"Plymouth, Minnesota",97.35%,"30,392",1.85
+"Tustin, California",97.36%,"24,125",2.11
+"Fishers, Indiana",97.36%,"34,846",1.98
+"Huntington Beach, California",97.39%,"75,273",1.99
+"Lee's Summit city, Missouri",97.44%,"36,469",2.14
+"Weston, Florida",97.48%,"20,420",2.14
+"West Jordan, Utah",97.48%,"35,366",2.29
+"Corona, California",97.51%,"47,793",2.19
+"North Richland Hills, Texas",97.52%,"27,070",1.79
+"St. George, Utah",97.53%,"30,816",1.99
+"Enterprise, Nevada",97.62%,"65,759",1.92
+"Fontana, California",97.66%,"56,457",2.39
+"Broken Arrow, Oklahoma",97.68%,"41,730",1.98
+"Grand Prairie, Texas",97.70%,"62,030",2.03
+"Miramar, Florida",97.71%,"39,853",2.13
+"Dale City, Virginia",97.72%,"20,660",2.29
+"West Des Moines, Iowa",97.72%,"30,464",1.78
+"Overland Park, Kansas",97.73%,"79,436",1.9
+"Highlands Ranch, Colorado",97.77%,"37,081",2.13
+"Orem, Utah",97.77%,"29,380",2.19
+"North Port, Florida",97.80%,"26,005",1.77
+"Carlsbad, California",97.83%,"44,966",2.02
+"Surprise, Arizona",97.85%,"49,127",1.92
+"The Hammocks, Florida",97.86%,"19,617",1.98
+"Jupiter, Florida",97.96%,"26,959",1.76
+"Centennial, Colorado",97.97%,"40,151",2.09
+"Meridian, Idaho",97.97%,"40,194",2.12
+"Allen, Texas",98.05%,"34,548",2.1
+"Round Rock, Texas",98.06%,"42,580",1.89
+"Palm Coast, Florida",98.08%,"34,103",1.86
+"Buena Park, California",98.10%,"25,362",2.31
+"Wellington, Florida",98.13%,"22,506",1.98
+"Hoover, Alabama",98.23%,"32,461",2.02
+"Missouri City, Texas",98.28%,"25,225",2.18
+"Gilbert, Arizona",98.28%,"81,235",2.13
+"Rio Rancho, New Mexico",98.45%,"35,765",2.23
+"Cape Coral, Florida",98.49%,"67,176",1.9
+"Redondo Beach, California",98.52%,"26,360",1.84
+"Rowlett, Texas",98.58%,"21,953",2.36
+"Livermore, California",98.69%,"30,545",2.21
+"Pearland, Texas",98.69%,"47,106",2.12
+"Buckeye, Arizona",98.70%,"21,691",2.23
+"Chino Hills, California",98.75%,"26,856",2.34
+"Goodyear, Arizona",98.79%,"26,158",2.06
+"San Tan Valley, Arizona",98.84%,"30,387",2.03
+"Newport Beach, California",98.89%,"37,035",1.93
+"Port St. Lucie, Florida",98.93%,"68,484",1.81
+"League City, Texas",98.95%,"38,910",2.1
+"Ankeny, Iowa",99.00%,"26,150",1.94
+"South Hill, Washington",99.00%,"21,371",2.19
+"Yorba Linda, California",99.05%,"22,676",2.43
+"Maple Grove, Minnesota",99.06%,"28,583",1.96
+"Noblesville, Indiana",99.07%,"22,515",2.07
+"Leander, Texas",99.14%,"20,548",2.09
+"Atascocita, Texas",99.16%,"25,490",2.21
+"Centreville, Virginia",99.21%,"23,288",2.08
+"Flower Mound, Texas",99.25%,"27,199",2.17
+"Doral, Florida",99.34%,"19,722",1.8
+"Lehi, Utah",99.41%,"18,411",2.24
+"Sammamish, Washington",99.43%,"21,456",2.15
+"Cedar Park, Texas",99.45%,"24,034",1.97

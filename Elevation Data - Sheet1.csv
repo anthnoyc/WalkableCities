@@ -1,0 +1,51 @@
+City,State,Rank,High Feet,Low Feet
+New York,New York,1,410,0
+Chicago,Illinois,2,673,579
+Los Angeles,California,3,"5,074",0
+Philadelphia,Pennsylvania,4,441,0
+Houston,Texas,5,83,0
+Detroit,Michigan,6,672,575
+Dallas,Texas,7,686,390
+San Diego,California,8,823,0
+Phoenix,Arizona,9,"1,160","1,058"
+Baltimore,Maryland,10,489,0
+San Antonio,Texas,11,"1,000",505
+Indianapolis,Indiana,12,845,664
+San Francisco,California,13,934,0
+Memphis,Tennessee,14,335,195
+Washington,D.C.,15,410,1
+Milwaukee,Wisconsin,16,799,579
+San Jose,California,17,"2,125",0
+Cleveland,Ohio,18,"1,050",571
+Columbus,Ohio,19,893,685
+Boston,Massachusetts,20,330,0
+New Orleans,Louisiana,21,25,-8
+Jacksonville,Florida,22,40,0
+Seattle,Washington,23,520,0
+Denver,Colorado,24,"5,470","5,130"
+Nashville-Davidson County,Tennessee,25,"1,160",385
+St. Louis,Missouri,26,614,385
+Kansas City,Missouri,27,"1,020",720
+El Paso,Texas,28,"4,080","3,695"
+Atlanta,Georgia,29,"1,086",738
+Pittsburgh,Pennsylvania,30,"1,370",710
+Oklahoma City,Oklahoma,31,"1,334","1,050"
+Cincinnati,Ohio,32,960,433
+Fort Worth,Texas,33,766,513
+Minneapolis,Minnesota,34,980,687
+Portland,Oregon,35,"1,073",0
+Honolulu,Hawaii,36,"4,020",0
+Long Beach,California,37,360,-7
+Tulsa,Oklahoma,38,810,620
+Buffalo,NewYork,39,699,571
+Toledo,Ohio,40,627,571
+Miami,Florida,41,30,0
+Austin,Texas,42,"1,080",406
+Oakland,California,43,"1,754",0
+Albuquerque,New Mexico,44,"6,120","4,946"
+Tucson,Arizona,45,"2,950","2,250"
+Newark,New Jersey,46,278,0
+Charlotte,North Carolina,47,784,519
+Omaha,Nebraska,48,"1,272",960
+Louisville,Kentucky,49,761,382
+Birmingham,Alabama,50,"1,060",496
